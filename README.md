@@ -22,12 +22,15 @@ installed before it is ready:
 [6]: https://code.visualstudio.com/
 
 Python Installation:
+
 ![image](https://user-images.githubusercontent.com/36202270/172741278-b2503fa8-eaea-405b-8d3a-d6789d35ec9f.png)
 
 Node.js Installation:
+
 ![image](https://user-images.githubusercontent.com/36202270/172741451-c94b3675-bb10-4f8e-8f1b-9ef4c0b80e1c.png)
 
 Visual Studio Code Installation:
+
 ![image](https://user-images.githubusercontent.com/36202270/172741550-fac54f2f-d8e6-4c93-91e6-bd57b1547bee.png)
 
 After you have installed the above, download the .zipped client and unzip
@@ -36,18 +39,23 @@ it in a folder of your choice.
 ### Running the client
 
 Right-click the folder then click Open with Code, view below:
+
 ![image](https://user-images.githubusercontent.com/36202270/172741746-ee9606c3-7c7d-40c5-818a-5573c776f460.png)
 
 Click New Terminal as shown below:
+
 ![image](https://user-images.githubusercontent.com/36202270/172741924-decf3cd7-70f9-4a8a-9cde-f9059dacb0f2.png)
 
 A new terminal should be opened:
+
 ![image](https://user-images.githubusercontent.com/36202270/172741982-2842c9db-8bd6-43d1-a954-acedf696d555.png)
 
 At this point type `py -m http.server` into the terminal.
+
 ![image](https://user-images.githubusercontent.com/36202270/172742167-7f7a079e-ad26-4a01-aa1c-e851418e5b85.png)
 
 `localhost:8000/testclient.html` should then be typed into your brower of choice. (I used Opera as my browser)
+
 ![image](https://user-images.githubusercontent.com/36202270/172742689-a7fa890f-0078-4c8b-8fb0-9238eb20a1ac.png)
 
 You should be good to log in from here!
