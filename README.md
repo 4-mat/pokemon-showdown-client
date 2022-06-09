@@ -19,9 +19,13 @@ Testing
 In order to test, edit and use the client, extra software must be 
 installed before it is ready:
 
-[Python version 3.10.2 or later][4]
-[Node.js version 16.15.1 or later][5]
+[Python version 3.10.2 or later][4] (Windows Installer 64-bit at the bottom) |
+[Node.js version 16.15.1 or later][5] (Windows Installer (.msi)) |
 [Visual Studio Code][6]
+
+[4]: https://www.python.org/downloads/release/python-3102/ 
+[5]: https://nodejs.org/en/download/
+[6]: https://code.visualstudio.com/
 
 After you have installed the above, download the .zip..... {continue here}
 
